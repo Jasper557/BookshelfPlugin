@@ -1,0 +1,6 @@
+name: Bookshelf
+version: ${project.version}
+main: de.jasper557.bookshelf.Bookshelf
+api-version: 1.16
+authors: [ Jasper557 ]
+description: Very nice
