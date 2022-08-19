@@ -3,4 +3,4 @@ version: ${project.version}
 main: de.jasper557.bookshelf.Bookshelf
 api-version: 1.16
 authors: [ Jasper557 ]
-description: Very nice
+description: When right-clicking on a bookshelf, a secret inventory opens up. In this inventory you can hide things.
